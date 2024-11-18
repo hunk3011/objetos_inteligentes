@@ -1,6 +1,12 @@
 # Edifícios Inteligentes para Economia de Energia
 
-Este repositório contém o projeto de um **sistema de automação inteligente** utilizando Arduino, que combina **eficiência energética** e **segurança contra incêndios**. A implementação foca na criação de ambientes comerciais e residenciais mais sustentáveis, seguros e conectados, utilizando tecnologias de Internet das Coisas (IoT).
+Este repositório contém o código e a documentação do projeto de um sistema de automação inteligente desenvolvido com a plataforma Arduino, que tem como objetivo integrar eficiência energética e segurança contra incêndios. O sistema é projetado para ser implementado em ambientes comerciais e residenciais, criando soluções que não apenas aumentam a sustentabilidade do edifício, mas também melhoram a segurança dos ocupantes.
+
+A principal funcionalidade do sistema é a detecção precoce de incêndios utilizando sensores especializados, como o Sensor de Chama/Fogo KY-026, que detecta a radiação infravermelha emitida pelas chamas. Quando um incêndio é detectado, o sistema aciona alertas visuais e sonoros, além de enviar notificações via Internet das Coisas (IoT), possibilitando o monitoramento remoto e respostas rápidas. Isso proporciona maior segurança para os moradores e trabalhadores no ambiente, reduzindo riscos e danos em caso de emergência.
+
+Além disso, o sistema também é projetado para otimizar o consumo de energia, ajustando automaticamente as condições de iluminação, climatização e outros recursos elétricos com base nas condições do ambiente. Utilizando a conectividade Wi-Fi da placa ESP8266 NodeMCU V3, o projeto é capaz de integrar todos os sensores e atuadores em uma rede inteligente, permitindo que os dispositivos se comuniquem entre si e com os usuários de forma centralizada. Isso contribui diretamente para a redução de custos com energia elétrica e a sustentabilidade ambiental, tornando o projeto uma solução moderna e eficaz para edifícios inteligentes.
+
+A combinação de tecnologias de IoT com automação residencial e comercial é um avanço significativo para a criação de ambientes mais sustentáveis, seguros e conectados. Através da integração com plataformas de gerenciamento e aplicativos móveis, o sistema oferece um controle remoto eficiente e prático, podendo ser adaptado para diferentes cenários e necessidades. Assim, o projeto não só visa aprimorar a eficiência no uso de energia, mas também a segurança e o conforto dos ocupantes, tornando os espaços mais inteligentes e preparados para responder a emergências de forma rápida e eficaz.
 
 # **Objetivo do Projeto**
 
